@@ -42,7 +42,7 @@ function Bmi() {
         background: "-moz-linear-gradient(top, #E6B800, #ac2121)",
         fontWeight: "bold",
         height: "35px",
-        backgroundColor: isHover ? 'pink' : 'rgb(0, 191, 255)',
+        backgroundColor: isHover ? '#52f0f8' : 'rgb(0, 191, 255)',
         color: isHover ? '#52f0f8' : '',
         boxShadow:" 5 -5px grey inset"
 
