@@ -43,7 +43,7 @@ function Bmi() {
         fontWeight: "bold",
         height: "35px",
         backgroundColor: isHover ? '#52f0f8' : 'rgb(0, 191, 255)',
-        color: isHover ? '#52f0f8' : '',
+        color: isHover ? '#000' : '',
         boxShadow:" 5 -5px grey inset"
 
     }
