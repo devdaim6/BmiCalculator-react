@@ -1,5 +1,5 @@
 import Bmi from './components/Bmi';
-// import Contact from './components/Contact';
+ 
 
 
 
